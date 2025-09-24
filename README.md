@@ -7,7 +7,7 @@
 
 🌱 Currently improving in **Full Stack Java Development & OOP**  
 👯 Looking to collaborate on **real-world projects**  
-💬 Ask me about **Java | Spring Boot | MySQL | MongoDB | HTML | CSS | JavaScript | Problem Solving**  
+💬 Ask me about **Java | Spring Boot | MySQL | HTML | CSS | JavaScript | Problem Solving**  
 📫 Reach me at: [pharikaran0111@gmail.com](mailto:pharikaran0111@gmail.com)  
 ⚡ Fun fact: **I love to see CODE_Ghost 👻**  
 
@@ -31,19 +31,7 @@ HTML5 | CSS3 | Thymeleaf
 Spring Boot | Spring MVC
 
 ## 🗄️ Database
-MySQL | MongoDB
-
-## 🤖 AI Tools
-GitHub Copilot | ChatGPT
-
----
-
-# 🖼️ Visuals
-
-![Coding GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
-![Java GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
-![Full Stack GIF](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)  
-![Motivation GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+MySQL
 
 ---
 
