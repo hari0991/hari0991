@@ -1,5 +1,5 @@
 <!-- 🚨 Animated Typing Header 🚨 -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F0FF&width=600&lines=Hi+there!+I'm+Hari+Haran;Full+Stack+Java+Developer;Building+Scalable+Web+Apps)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0000&width=600&lines=Hi+there!+I'm+Hari+Haran;Full+Stack+Java+Developer;Building+Scalable+Web+Apps)
 
 ---
 
@@ -8,13 +8,12 @@
 🌱 Currently improving in **Full Stack Java Development & OOP**  
 👯 Looking to collaborate on **real-world projects**  
 💬 Ask me about **Java | Spring Boot | MySQL | HTML | CSS | JavaScript | Problem Solving**  
-📫 Reach me at: [pharikaran0111@gmail.com](mailto:pharikaran0111@gmail.com)  
 
 ---
 
-# 🌐 Connect with Me 🌐
+# 📫 Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/hariharan-in)
+- Email: [pharikaran0111@gmail.com](mailto:pharikaran0111@gmail.com)
 
 ---
 
