@@ -1,37 +1,57 @@
-<!-- Animated Typing Intro -->
+<!-- Animated Typing Header -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F0FF&width=600&lines=Hi+there!+I'm+Hari+Haran;Full+Stack+Java+Developer;Building+Scalable+Web+Apps)
 
 ---
 
-## 👨‍💻 About Me
-Full Stack Java Developer with expertise in **Spring Boot, MySQL, Thymeleaf**, and modern frontend frameworks. Skilled at building scalable and secure applications, integrating authentication, and developing responsive user interfaces. Certified Java Full Stack Developer with a proven track record of delivering real-world projects.
+# 💫 About Me 💫
+
+🌱 Currently improving in **Full Stack Java Development & OOP**  
+👯 Looking to collaborate on **real-world projects**  
+💬 Ask me about **Java | Spring Boot | MySQL | MongoDB | HTML | CSS | JavaScript | Problem Solving**  
+📫 Reach me at: [pharikaran0111@gmail.com](mailto:pharikaran0111@gmail.com)  
+⚡ Fun fact: **I love to see CODE_Ghost 👻**  
 
 ---
 
-## 🌱 I’m Currently Learning
-- Java Full Stack Development
+# 🌐 Connect with Me 🌐
+
+- [LinkedIn](https://www.linkedin.com/in/hariharan-in)
 
 ---
 
-## 🛠️ Tech Stack
+# 🔥 Tech Stack 🔥
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 💻 Programming Languages
+Java | JavaScript | SQL
 
-<!-- Animated Coding GIF -->
-![Coding GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+## 🎨 Frontend
+HTML5 | CSS3 | Thymeleaf
+
+## ⚙️ Backend
+Spring Boot | Spring MVC
+
+## 🗄️ Database
+MySQL | MongoDB
+
+## 🤖 AI Tools
+GitHub Copilot | ChatGPT
 
 ---
 
-## 📫 How to Reach Me
-- Email: [pharikaran0111@gmail.com](mailto:pharikaran0111@gmail.com)  
-- LinkedIn: [Hari Haran](https://www.linkedin.com/in/hariharan-in)
+# 🖼️ Visuals
+
+![Coding GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
+![Java GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
+![Full Stack GIF](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)  
+![Motivation GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
 
-## 💡 Motivational Quote
+# 💡 Motivational Quote
 > **“Arise, awake, and stop not until the goal is reached.”** – Swami Vivekananda
+
+---
+
+# ⚡ GitHub Stats ⚡
+
+![Hari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hari0991&show_icons=true&hide_border=true&theme=radical)
