@@ -13,7 +13,8 @@
 
 # 📫 Contact Me
 
-- Email: [pharikaran0111@gmail.com](mailto:pharikaran0111@gmail.com)
+- Email: [pharikaran0111@gmail.com](mailto:pharikaran0111@gmail.com)  
+- LinkedIn: [Hari Haran](https://www.linkedin.com/in/hariharan-in)
 
 ---
 
