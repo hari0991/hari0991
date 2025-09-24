@@ -1,4 +1,4 @@
-<!-- Animated Typing Header -->
+<!-- 🚨 Animated Typing Header 🚨 -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F0FF&width=600&lines=Hi+there!+I'm+Hari+Haran;Full+Stack+Java+Developer;Building+Scalable+Web+Apps)
 
 ---
@@ -9,7 +9,6 @@
 👯 Looking to collaborate on **real-world projects**  
 💬 Ask me about **Java | Spring Boot | MySQL | HTML | CSS | JavaScript | Problem Solving**  
 📫 Reach me at: [pharikaran0111@gmail.com](mailto:pharikaran0111@gmail.com)  
-⚡ Fun fact: **I love to see CODE_Ghost 👻**  
 
 ---
 
