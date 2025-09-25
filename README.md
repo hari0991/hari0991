@@ -1,5 +1,6 @@
-<!-- 🚀 Animated Typing Header 🚀 -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Hello,+folk!;I+am+Hariharan;Java+Fullstack+Developer;Nice+to+meet+you!+🤝)
+<!-- Soft blue on transparent background -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=900&color=3B82F6&background=00000000&center=true&vCenter=true&width=700&lines=Hello,+folk!;I+am+Hariharan;Java+Fullstack+Developer;Nice+to+meet+you!+🤝)
+
 
 ---
 
