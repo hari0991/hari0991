@@ -1,5 +1,5 @@
-<!-- 🚨 Animated Typing Header 🚨 -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0000&width=600&lines=Hi+there!+I'm+Hari+Haran;Full+Stack+Java+Developer;Building+Scalable+Web+Apps)
+<!-- 🚀 Animated Typing Header 🚀 -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Hello,+folk!;I+am+Hariharan;Java+Fullstack+Developer;Nice+to+meet+you!+🤝)
 
 ---
 
@@ -14,7 +14,7 @@
 # 📫 Contact Me
 
 - Email: [pharikaran0111@gmail.com](mailto:pharikaran0111@gmail.com)  
-- LinkedIn: [Hari Haran](https://www.linkedin.com/in/hariharan-in)
+- LinkedIn: [Hari Haran](https://www.linkedin.com/in/hariharan-in/)
 
 ---
 
