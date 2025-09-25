@@ -1,7 +1,7 @@
-<!-- 🚀 Animated Typing Header with Viewer Box 🚀 -->
-<div align="center" style="border: 2px solid #FF5733; border-radius: 12px; padding: 20px; background: #1e1e1e;">
+<!-- 🚀 Animated Typing Header 🚀 -->
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Hello,+folk!;I+am+Hariharan;Java+Fullstack+Developer;Nice+to+meet+you!+🤝" alt="Typing SVG" />
-</div>
+</p>
 
 ---
 
